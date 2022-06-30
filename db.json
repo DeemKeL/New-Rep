@@ -1,5 +1,11 @@
 {
-    users: [
-        
+    "users": [
+        {
+            "id": 1,
+            "name": "Dmytro",
+            "sirname": "Klek",
+            "photo_url": "https://avatars.githubusercontent.com/u/104728821?s=96&v=4",
+            "balance": 1337
+        }
     ]
 }
