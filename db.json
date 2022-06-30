@@ -1,5 +1,6 @@
 {
     "users": [
+<<<<<<< HEAD
         {
             "id": 1,
             "name": "Dmytro",
@@ -7,5 +8,8 @@
             "photo_url": "https://avatars.githubusercontent.com/u/104728821?s=96&v=4",
             "balance": 1337
         }
+=======
+        
+>>>>>>> 06f71240dd138ad523ea0b4c5fe4a223441930d6
     ]
 }
